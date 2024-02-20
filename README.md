@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [WatchWish](https://github.com/jeffreyg8940/WatchWish)
 
-- 🌱 Currently Enrolled At **FullStack Academy**
-
 - 👯 I’m looking to collaborate on [Under-the_tree](No Project Link (Its a Private Repository))
 
 - 🤝 I’m looking for help with [WatchWish](https://github.com/jeffreyg8940/WatchWish)
