@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jeffrey</h1>
 <h3 align="center">Aspiring Devops Engineer, Currently an IT Specialist at Baskervill</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffreyg8940&label=Profile%20views&color=0e75b6&style=flat" alt="jeffreyg8940" /> </p>
-
-- 🔭 I’m currently working on [WatchWish](https://github.com/jeffreyg8940/WatchWish)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffreyg8940&label=Profile%20views&color=0e75b6&style=flat" alt="jeffreyg8940" /> </p
 
 - 👯 I’m looking to collaborate on [Under-the_tree](No Project Link (Its a Private Repository))
-
-- 🤝 I’m looking for help with [WatchWish](https://github.com/jeffreyg8940/WatchWish)
 
 - 👨‍💻 I have a personal website @ [https://irujeffrey.space](https://irujeffrey.space)
 
