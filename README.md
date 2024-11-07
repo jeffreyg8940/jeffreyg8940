@@ -5,17 +5,9 @@
 
 - 👯 I’m looking to collaborate on [Under-the_tree](No Project Link (Its a Private Repository))
 
-- 👨‍💻 I have a personal website @ [https://irujeffrey.space](https://irujeffrey.space)
-
-- 📝 Trying to blog my Tech experience's @ [https://irujeffrey.space](https://irujeffrey.space)
-
 - 💬 Feel Free to chat to me about **Anything IT Related, Coding related, gaming related and more!**
 
 - 📫 How to reach me **jeffrey.gaitan03@gmail.com**
-
-- 📄 My Resume Can be found @ [https://irujeffrey.space](https://irujeffrey.space)
-
-- ⚡ Fun fact **I am the youngest full-time employee at my current company**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
